@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational economics, climate change and development.
 - 🌱 I’m currently learning Python and Julia to expand my toolbox.
 - 💞️ I’m looking to collaborate on research projects as well as productivity hacks.
-- 📫 You can learn more about me by visiting [my website](https://mathiasweidinger.com).
+- 📫 You can learn more about me by visiting [my website](https://mathiasweidinger.github.io).
 
 <!---
 mathiasweidinger/mathiasweidinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
