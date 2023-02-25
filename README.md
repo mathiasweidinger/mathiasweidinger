@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathiasweidinger
-- 👀 I’m interested in computational economics, climate change and development.
+- 👀 I’m interested in GIS and spatial econometrics for environmental and development economics.
 - 🌱 I’m currently learning Python and Julia to expand my toolbox.
 - 💞️ I’m looking to collaborate on research projects as well as productivity hacks.
 - 📫 You can learn more about me by visiting [my website](https://mathiasweidinger.github.io).
